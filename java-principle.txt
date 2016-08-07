@@ -1,0 +1,11 @@
+JAVA PRINCIPLE
+
+
+https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html
+http://blog.cleancoder.com/uncle-bob/2015/01/08/InterfaceConsideredHarmful.html
+http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html
+http://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html
+http://blog.cleancoder.com/uncle-bob/2014/10/01/CleanMicroserviceArchitecture.html
+https://8thlight.com/blog/uncle-bob/
+https://en.wikipedia.org/wiki/Dependency_inversion_principle
+http://www.syntropy.co.uk/papers/modelingwithpurpose.pdf

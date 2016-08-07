@@ -1,0 +1,22 @@
+http://thejimmahknows.com/1-way-vs-2-way-ssl-authentication/?doing_wp_cron=1470421352.3015611171722412109375
+https://docs.oracle.com/middleware/1212/owsm/OWSMC/owsm-security-concepts.htm#OWSMC2342
+https://docs.oracle.com/middleware/1212/owsm/OWSMC/owsm-security-concepts.htm#OWSMC4026
+http://prasenjitdas235.blogspot.co.uk/2014/11/2-way-ssl-with-example.html
+http://mrhaki.blogspot.co.uk/2009/05/configure-maven-jetty-plugin-for-ssl.html
+https://wiki.eclipse.org/Jetty/Howto/Configure_SSL
+https://blog.flood.io/mutual-two-way-ssl-with-jmeter/
+https://medium.com/@Jenananthan/nginx-mutual-ssl-one-way-ssl-with-multiple-clients-ae87b3de0935#.xgkayfem3
+http://wiki.apache.org/ws/FrontPage/Axis/DynamicSSLConfig
+http://stackoverflow.com/questions/889406/using-multiple-ssl-client-certificates-in-java-with-the-same-host
+http://www.robinhowlett.com/blog/2016/01/05/everything-you-ever-wanted-to-know-about-ssl-but-were-afraid-to-ask/
+http://middlewaresnippets.blogspot.co.uk/2014/03/playing-with-ssl.html
+http://blogs.perficient.com/ibm/2013/09/25/ssl-concept-and-implementation-in-datapower/
+https://docs.oracle.com/middleware/1212/owsm/OWSMS/configure-owsm-ssl.htm#OWSMS4261
+https://jcalcote.wordpress.com/2010/06/22/managing-a-dynamic-java-trust-store
+
+
+
+they have to add in three different places
+When you separate things that change for the same reasons, you have to make changes in many different places in the system.
+esting the change is hard because you have to have all the components running to test it end-to-end. 
+And you have to make sure that all the interface points work as desired. So it’s a lot of work just to get anything working.
